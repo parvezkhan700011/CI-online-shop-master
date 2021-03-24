@@ -97,4 +97,4 @@ Set up :
 - Visit http://localhost:8080/myprojects/CI-online-shop-master/ and administration http://localhost:8080/myprojects/CI-online-shop-master/admin in your browser
 - Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111.
 
-<p style="text-align:center">Thank You so much for your time !!!</p>
+   <p style="text-align:center">Thank You so much for your time !!!</p>
