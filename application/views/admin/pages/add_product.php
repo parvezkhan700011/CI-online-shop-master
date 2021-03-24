@@ -10,7 +10,7 @@
         </li>
         <li>
             <i class="icon-edit"></i>
-            <a href="<?php echo base_url('add/project')?>">Add Project</a>
+            <a href="<?php echo base_url('add/product')?>">Add Product</a>
         </li>
     </ul>
 

@@ -4,9 +4,9 @@
 
         <!-- start: Meta -->
         <meta charset="utf-8">
-        <title>App Tech Solutions | Admin Panel Dashboard</title>
+        <title>E-Shop | Admin Panel Dashboard</title>
         <meta name="description" content="Shop Admin Panel Dashboard">
-        <meta name="author" content="Engr Rostom Ali">
+        <meta name="author" content="Parvez Khan">
         <meta name="keyword" content="Shop Admin Panel Dashboard">
         <!-- end: Meta -->
 
@@ -52,7 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="<?php echo base_url('dashboard')?>"><span>App Tech Solutions E-Shop Admin Panel</span></a>
+                    <a class="brand" href="<?php echo base_url('dashboard')?>"><span>E-Shop Admin Panel</span></a>
 
                     <!-- start: Header Menu -->
                     <div class="nav-no-collapse header-nav">
@@ -93,8 +93,8 @@
                             <li><a href="<?php echo base_url('manage/category')?>"><i class="icon-tasks"></i><span class="hidden-tablet"> Manage Category</span></a></li>
                             <li><a href="<?php echo base_url('add/brand')?>"><i class="icon-edit"></i><span class="hidden-tablet"> Add Brand</span></a></li>
                             <li><a href="<?php echo base_url('manage/brand')?>"><i class="icon-list-alt"></i><span class="hidden-tablet"> Manage Brand</span></a></li>
-                            <li><a href="<?php echo base_url('add/project')?>"><i class="icon-eye-open"></i><span class="hidden-tablet"> Add Project</span></a></li>
-                            <li><a href="<?php echo base_url('manage/project')?>"><i class="icon-dashboard"></i><span class="hidden-tablet"> Manage Project</span></a></li>
+                            <li><a href="<?php echo base_url('add/product')?>"><i class="icon-eye-open"></i><span class="hidden-tablet"> Add Product</span></a></li>
+                            <li><a href="<?php echo base_url('manage/product')?>"><i class="icon-dashboard"></i><span class="hidden-tablet"> Manage Product</span></a></li>
                           
                             <li><a href="<?php echo base_url('add/slider')?>"><i class="icon-font"></i><span class="hidden-tablet"> Add Slider</span></a></li>
                             <li><a href="<?php echo base_url('manage/slider')?>"><i class="icon-picture"></i><span class="hidden-tablet"> Manage Slider</span></a></li>
@@ -136,7 +136,7 @@
         <footer>
 
             <p>
-                <span style="text-align:left;float:left">&copy; 2021 <a href="https://www.app-techsolutions.com" alt="App Tech Solutions">App Tech Solutions</a></span>
+                <span style="text-align:left;float:left">&copy; 2021 <a href="https://github.com/parvezkhan700011/" alt="Parvez Khan">Parvez Khan</a></span>
 
             </p>
 

@@ -1,3 +1,16 @@
+# About Mr Parvez Khan
+
+I' am a Full Stack Developer Php Developer, Codeigniter, Laravel, Wordpress Developer. A php developer mainly with lots of interests and a strong passion to learn.
+Multitasking is my skills and so I managed to gain experience in several different fields, sometimes simultaneously.
+I have good experience in coding and Programming, Graphic Design.
+I have a B.Sc. in Biology. I worked in my own into a graphic design and abstract art and then into coding and programming to be a php developer.
+I enjoy coding as much as I enjoy being creative and being a good communicator. I like to use all my past experience to create good web content and I look forward a learning even more to be able to create even better content.
+I am always looking forward to more sharing, communicating and networking along with finding good career and educational opportunities to be able to continuously evolve and improve.
+Thanks:) 
+
+# Contact Information
+- Developer Name: Mr. Parvez Khan
+
 ###################
 What is CodeIgniter
 ###################
@@ -68,3 +81,14 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+## Set up :
+
+1. Clone the repo and cd into it
+2. composer install
+7. Import db file(shop.sql) into your database (mysql,sql) Username:root, Password:empty
+11. Visit http://localhost:8080/myprojects/CI-online-shop-master/ and administration 
+http://localhost:8080/myprojects/CI-online-shop-master/admin in your browser
+12. Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111.
+
+<p style="text-align:center">Thank You so much for your time !!!</p>
